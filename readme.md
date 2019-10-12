@@ -1,5 +1,4 @@
 # Simple Change Resource Route in Laravel Nova
----
 
 ## Install in your local:
 - Read this documentation to install [Laravel Nova](https://nova.laravel.com) [Not Free]
