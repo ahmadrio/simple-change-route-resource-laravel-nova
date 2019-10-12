@@ -11,6 +11,6 @@
 - Run in your browser & Viola!!
 
 ## Docs
-- Read: [How to configuration to change resource route in Laravel Nova]()
+- Read On Medium: [How to configuration to change resource route in Laravel Nova](https://medium.com/dot-lab/override-route-controller-in-laravel-nova-3da2a17e2703)
 
 ## Thanks
